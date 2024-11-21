@@ -14,7 +14,7 @@ const HomePage = (props) => {
                     </p>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi velit, a nesciunt nostrum repudiandae quaerat
                         ratione
-                        ut nisi fugiat debitis commodi maiores. Fugiat nulla iure accusantium ipsam rem provident <a href="http://" target="_blank" >HOLA</a></p>
+                        ut nisi fugiat debitis commodi maiores. Fugiat nulla iure accusantium ipsam rem provident</p>
                 </div>
                 <div className="testimonios">
                     <h2>Testimonios</h2>

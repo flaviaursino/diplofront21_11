@@ -1,4 +1,4 @@
-import Nav from "./Nav";
+
 import '../../styles/layout.css'
 
 const Header = (props) => {
